@@ -1,4 +1,4 @@
-# 🦾 OpenClaw — Autonomous ReAct AI Agent
+# Autonomous ReAct AI Agent
 
 An autonomous AI agent built with **FastAPI**, **Google Gemini**, and the **ReAct** (Reason → Act → Observe) loop. It can run Python code, write files, and solve complex goals step by step.
 
